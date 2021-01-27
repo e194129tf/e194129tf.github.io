@@ -1,2 +1,2 @@
-[1030/140356.452:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
-[1127/134919.430:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[0126/175342.879:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0126/181016.058:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
